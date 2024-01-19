@@ -1,4 +1,5 @@
-# csdt1920ki47spitzeras03 Task 1
+<<<<<<< HEAD
+# csdt2024ki41zHylevatyi_Igor03 Task 3
 
 ## Project Details
 - **Repository Name:** csdt2024ki41zHylevatyi_Igor03
@@ -13,10 +14,12 @@ This repository is created for the "Computer systems automated design" course. T
 ## Technology and Tools
 - Git
 - GitHub
-- [Other technologies/tools used in the project]
+- Chess
 
 ## Instructions
 - [Add any specific instructions or guidelines here]
 
+
 ## Version History
+>>>>>>> 66a9cadc30112a91e7aed95dd227c3b104719388
 - 1.0.0 (ww0101) - Initial setup for Task 1
