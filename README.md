@@ -1,4 +1,4 @@
-# csdt1920ki47spitzeras03 Task 1
+# csdt2024ki41zHylevatyi_Igor03 Task 1
 
 ## Project Details
 - **Repository Name:** csdt2024ki41zHylevatyi_Igor03
