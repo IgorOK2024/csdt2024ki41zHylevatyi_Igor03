@@ -21,5 +21,5 @@ This repository is created for the "Computer systems automated design" course. T
 
 
 ## Version History
->>>>>>> 66a9cadc30112a91e7aed95dd227c3b104719388
+
 - 1.0.0 (ww0101) - Initial setup for Task 1
